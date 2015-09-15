@@ -1,0 +1,30 @@
+{
+  "name": "authy-express",
+  "version": "1.0.0",
+  "description": "Authy<www.authy.com> Strategy for passport",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgdevine/authy-express.git"
+  },
+  "keywords": [
+    "authy",
+    "authy-express"
+  ],
+  "author": "ayeminaung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mgdevine/passport-authy/issues"
+  },
+  "homepage": "https://github.com/mgdevine/passport-authy#readme",
+  "dependencies": {
+    "authy": "^1.1.2",
+    "body-parser": "^1.13.3"
+  }
+}
